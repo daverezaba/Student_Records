@@ -1,1 +1,107 @@
-
+{
+  "generatedAt": "2026-09-18T00:49:14.675239",
+  "totalStudents": 5,
+  "overallAverage": 79.47,
+  "passed": 3,
+  "failed": 2,
+  "passRate": "60.0%",
+  "topPerformer": {
+    "name": "Maria Santos",
+    "average": 92.67,
+    "course": "BSIT"
+  },
+  "lowestPerformer": {
+    "name": "Sophia Reyes",
+    "average": 61.67,
+    "course": "BSCS"
+  },
+  "byCourse": [
+    {
+      "course": "BSIT",
+      "count": 3,
+      "average": 88.0
+    },
+    {
+      "course": "BSCS",
+      "count": 2,
+      "average": 66.67
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "name": "Dave Rezaba",
+      "age": 20,
+      "course": "BSIT",
+      "scores": {
+        "english": 85,
+        "math": 88,
+        "science": 92
+      },
+      "total": 265,
+      "average": 88.33,
+      "grade": "B+",
+      "status": "Passed"
+    },
+    {
+      "id": 2,
+      "name": "Maria Santos",
+      "age": 19,
+      "course": "BSIT",
+      "scores": {
+        "english": 93,
+        "math": 95,
+        "science": 90
+      },
+      "total": 278,
+      "average": 92.67,
+      "grade": "A",
+      "status": "Passed"
+    },
+    {
+      "id": 3,
+      "name": "John Cruz",
+      "age": 21,
+      "course": "BSCS",
+      "scores": {
+        "english": 75,
+        "math": 72,
+        "science": 68
+      },
+      "total": 215,
+      "average": 71.67,
+      "grade": "C",
+      "status": "Failed"
+    },
+    {
+      "id": 4,
+      "name": "Sophia Reyes",
+      "age": 20,
+      "course": "BSCS",
+      "scores": {
+        "english": 62,
+        "math": 65,
+        "science": 58
+      },
+      "total": 185,
+      "average": 61.67,
+      "grade": "C",
+      "status": "Failed"
+    },
+    {
+      "id": 5,
+      "name": "David Lim",
+      "age": 22,
+      "course": "BSIT",
+      "scores": {
+        "english": 88,
+        "math": 82,
+        "science": 79
+      },
+      "total": 249,
+      "average": 83.0,
+      "grade": "B",
+      "status": "Passed"
+    }
+  ]
+}
