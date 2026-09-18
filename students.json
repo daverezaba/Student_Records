@@ -1,1 +1,57 @@
-
+[
+  {
+    "id": 1,
+    "name": "Dave Rezaba",
+    "age": 20,
+    "course": "BSIT",
+    "scores": {
+      "english": 85,
+      "math": 88,
+      "science": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Maria Santos",
+    "age": 19,
+    "course": "BSIT",
+    "scores": {
+      "english": 93,
+      "math": 95,
+      "science": 90
+    }
+  },
+  {
+    "id": 3,
+    "name": "John Cruz",
+    "age": 21,
+    "course": "BSCS",
+    "scores": {
+      "english": 75,
+      "math": 72,
+      "science": 68
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sophia Reyes",
+    "age": 20,
+    "course": "BSCS",
+    "scores": {
+      "english": 62,
+      "math": 65,
+      "science": 58
+    }
+  },
+  {
+    "id": 5,
+    "name": "David Lim",
+    "age": 22,
+    "course": "BSIT",
+    "scores": {
+      "english": 88,
+      "math": 82,
+      "science": 79
+    }
+  }
+]
